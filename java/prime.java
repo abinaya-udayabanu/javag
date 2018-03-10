@@ -18,6 +18,7 @@ class Ideone
 		{
 		       if(n%i==0)
 		       f=f+1;
+			break;
 		}
 		if(f==1)
 		System.out.print("No");
